@@ -1,0 +1,6 @@
+{
+  "name": "Martins AI",
+  "description": "Your AI. Your Ideas. Your Possibilities. A full-stack conversational AI assistant powered by Gemini with streaming, multimodal input, research grounding, voice controls, and an interactive artifact workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
